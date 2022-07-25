@@ -1,0 +1,44 @@
+body { 
+
+    color:black;
+    background-color: darkgrey;
+
+}
+
+h1{
+    color: aliceblue;
+
+}
+
+div{
+
+    height: 400px;
+    width: 400px;
+    background-color: blueviolet;
+    
+}
+p{
+    margin: 20px;
+    margin-top: 20px;
+    background-color: blanchedalmond;
+}
+
+#first{
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+}
+
+.greenblock{
+    
+    background-color: green;
+    border: 1px solid yellow;
+}
+
+.greenblock:hover{
+
+    background-color: rgb(202, 57, 202) ;
+    border-radius: 50%;
+    border: 10px solid black;
+}
+
